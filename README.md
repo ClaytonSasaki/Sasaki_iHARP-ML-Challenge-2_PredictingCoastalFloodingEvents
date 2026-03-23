@@ -4,6 +4,10 @@ A variety of models for predicting coastal flooding events for iHARP-ML-Challeng
 Competition repo: https://github.com/iharp-institute/iHARP-ML-Challenge-2 \
 Codabench: https://www.codabench.org/competitions/10801/
 
+These notebooks can be easily run in Google Colab: 
+1. Replace 'github.com' with 'colab.research.google.com/github/' in the URL.
+2. In colab notebook, Run -> Change runtime type -> T4 GPU
+
 ## Models include in this repo
 
 ### XGBoost
